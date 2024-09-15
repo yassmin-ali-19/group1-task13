@@ -4,7 +4,7 @@
 
 This code integrates YOLO object detection with a Tic-Tac-Toe game. It uses a YOLO model to detect gestures for game control, allowing users to play in either single-player (against the computer) or multiplayer modes.
 
-3. Code Structure:
+2. Code Structure:
 
 -Initializing Libraries:
 
