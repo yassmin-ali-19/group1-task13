@@ -1,10 +1,10 @@
 import cv2
 import numpy as np
-import torch
+from ultralytics import YOLO
 import random
 
 # Load YOLO model
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='path_to_yolo_weights.pt')  # Replace with your YOLO weights path(mina)
+model = YOLO('best.pt')  # Replace with your YOLO weights path(mina)
 
 # Initialize game state
 board = np.zeros((3, 3), dtype=int)
@@ -54,7 +54,7 @@ def check_winner(board):
     return None
 
 # YOLO Detection function
-def detect_gesture(frame):
+def detect_gesture(frame):  #NEEDS TO BE REIPLEMENTED
     results = model(frame)
     for result in results.xyxy[0]:
         x1, y1, x2, y2, conf, class_id = result
