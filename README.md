@@ -53,4 +53,4 @@ The main loop handles game logic, including gesture detection, player moves, AI 
 
 **Exiting the Game:** 
  
- Press the***Esc key***to exit the game, close the video, and terminate the process
+ Press the ***Esc key*** to exit the game, close the video, and terminate the process
