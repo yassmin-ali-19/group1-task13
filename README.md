@@ -3,7 +3,7 @@
 
 [dataset drive link](https://drive.google.com/drive/folders/1SvOhjhkWaFQpDRdneb5FpQ6n22stA6uC?usp=drive_link)
 
-**YOLO-Based Tic-Tac-Toe Game Code**
+## YOLO-Based Tic-Tac-Toe Game Code
 
 1. Overview:
 
@@ -39,7 +39,7 @@ Game State Variables: Initializes the game board and variables to track the game
 
 The main loop handles game logic, including gesture detection, player moves, AI moves, and displaying the game state. It captures video frames, processes them for gesture detection, updates the game board, and displays the current state of the game.
 
-# Game Control
+## Game Control
 **Choosing Your Opponent:**
 
  🤞 Press (X) to play against the computer (AI).
@@ -59,7 +59,7 @@ The main loop handles game logic, including gesture detection, player moves, AI 
  
  Press the ***Esc key*** to exit the game, close the video, and terminate the process
 
-# test control
+## test control
 **Choosing Your Opponent:**
 
  Press (X) to play against the computer (AI).
