@@ -1,4 +1,8 @@
 # group1-task13
+## drive link for model
+
+[dataset drive link](https://drive.google.com/drive/folders/1SvOhjhkWaFQpDRdneb5FpQ6n22stA6uC?usp=drive_link)
+
 **YOLO-Based Tic-Tac-Toe Game Code**
 
 1. Overview:
