@@ -54,3 +54,22 @@ The main loop handles game logic, including gesture detection, player moves, AI 
 **Exiting the Game:** 
  
  Press the ***Esc key*** to exit the game, close the video, and terminate the process
+
+# test control
+**Choosing Your Opponent:**
+
+ Press (X) to play against the computer (AI).
+ 
+ Press (O) to play with a friend.
+
+**Playing the Game:**
+
+Play Tic-Tac-Toe as usual, but use the ***X key*** for X and the ***O key*** for O. Place your mouse cursor over the position where you want to place your mark and click. After the game, the winner will be announced with a brief delay, and the game will reset. If you want to change your opponent, press the R key to restart the game.
+
+**Resetting the Game:**
+
+ Press the ***R key*** on the keyboard to reset the game, even if it’s not finished.
+
+**Exiting the Game:** 
+ 
+ Press the ***Esc key*** to exit the game, close the video, and terminate the process
