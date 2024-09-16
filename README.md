@@ -34,3 +34,22 @@ Game State Variables: Initializes the game board and variables to track the game
 -Main Loop:
 
 The main loop handles game logic, including gesture detection, player moves, AI moves, and displaying the game state. It captures video frames, processes them for gesture detection, updates the game board, and displays the current state of the game.
+
+# Game Control
+**Choosing Your Opponent:**
+
+ 🤞 Press (X) to play against the computer (AI).
+ 👌 Press (O) to play with a friend.
+
+**Playing the Game:**
+
+ Play Tic-Tac-Toe as usual, but use the hand gestures 🤞 for X and 👌 for O. Place your hand over the position where you want to put your mark.
+ After the game, the winner is announced with a brief delay. The game then resets. If you want to change your opponent, press the  R key to restart the game.
+
+**Resetting the Game:**
+
+ Press the R key on the keyboard to reset the game, even if it’s not finished.
+
+**Exiting the Game:** 
+ 
+ Press the Esc key to exit the game, close the video, and terminate the process
